@@ -1,0 +1,26 @@
+.incomeBox {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+  width: 500px;
+}
+.incomeBox button {
+  width: 100px;
+  margin: 5px;
+}
+.incomeBox input {
+  width: 200px;
+  margin: 5px;
+}
+.addBalancebtn {
+  background-color: #f4bb4a;
+}
+.clancebtn {
+  background-color: #d9d9d9;
+}
+
+.outerbox {
+  background-color: #eeee;
+  border-radius: 10px;
+}
